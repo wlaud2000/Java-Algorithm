@@ -1,2 +1,2 @@
 # Java-Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+- 단계별로 풀어보기 12단계까지 푼 후에 기초알고리즘 1,2 풀기
